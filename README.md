@@ -11,10 +11,15 @@ The final solution leverages a robust preprocessing pipeline using ColumnTransfo
 Key highlights:
 
 Modular project structure using a directory for clean and maintainable code
+
 Proper train-test splitting with stratification
+
 Feature engineering and selection based on importance
+
 End-to-end Pipeline integrating preprocessing and model
+
 Model persistence using joblib for deployment readiness
+
 Evaluation using cross-validation and classification metrics
 
 This project is designed with scalability and production readiness in mind, making it easy to integrate into APIs or real-world applications.
